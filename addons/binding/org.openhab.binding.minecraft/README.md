@@ -1,6 +1,6 @@
 # Minecraft Binding
 
-This binding integrates Minecraft with openHAB through the [spigot plugin](https://github.com/ibaton/bukkit-openhab-plugin/releases/download/1.5/OHMinecraft.jar) ([sources](https://github.com/ibaton/bukkit-openhab-plugin/tree/master)).
+This binding integrates Minecraft with openHAB through the [spigot plugin](https://github.com/ibaton/bukkit-openhab-plugin/releases/download/1.9/OHMinecraft.jar) ([sources](https://github.com/ibaton/bukkit-openhab-plugin/tree/master)).
 
 The binding allows reading of server and player data.
 It furthermore keeps track of redstone power going below signs and links them to Switch items.
